@@ -11,7 +11,7 @@ interface Constantes {
         val automationName_value = "uiautomator2"
         val appPackage_value = "com.exnova"
         val newCommandTimeout = 30000
-        var APP_value = "AutomateBank/src/main/resources/Exnova.apk"
+        var APP_value = "src/main/resources/Exnova.apk"
 
     }
 }
